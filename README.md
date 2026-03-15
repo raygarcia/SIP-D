@@ -1,5 +1,5 @@
 # SIP-D
-Signal Intelligence Pattern Detection - Reference 
+Signal Intelligence Processing & Decision (SIP-D) - Reference 
 architecture for enterprise AI governance, weak signal 
 correlation, and explainable decision systems.
 
